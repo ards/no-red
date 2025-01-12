@@ -1,6 +1,6 @@
 # no-red
 
-This is a Python script to find and mark red pixels in an image.
+This is a Python script to find and mark red pixels in an image. Assumption is that pixel is red if more then 50% of total RGB value is red component.
 
 ## Description
 
